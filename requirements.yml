@@ -1,4 +1,4 @@
 ---
 collections:
   - community.general
-  - community.libvirt.virt
+  - community.libvirt
