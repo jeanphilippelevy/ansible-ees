@@ -13,4 +13,4 @@ collections:
 #  - name: containers.podman
 #  - name: ansible.controller
 #  - name: redhat_cop.controller_configuration
-#  - name: community.hashi_vault
+  - name: community.hashi_vault
