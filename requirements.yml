@@ -1,4 +1,16 @@
 ---
 collections:
-  - community.general
-  - community.libvirt
+  - name: jplevy.lab
+    version: 1.2.5
+  - name: ansible.posix
+  - name: ansible.windows
+  - name: community.general
+  - name: community.libvirt
+  - name: community.windows
+  - name: kubernetes.core
+  - name: theforeman.foreman
+  - name: google.cloud
+  - name: containers.podman
+  - name: ansible.controller
+  - name: redhat_cop.controller_configuration
+  - name: community.hashi_vault
