@@ -7,7 +7,7 @@ collections:
   - name: ansible.windows
   - name: community.hashi_vault
   - name: community.general
-#  - name: community.kubernetes
+  - name: community.kubernetes
   - name: community.libvirt
   - name: community.windows
   - name: containers.podman
