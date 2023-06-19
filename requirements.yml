@@ -8,7 +8,7 @@ collections:
   - name: community.hashi_vault
   - name: community.general
   - name: community.kubernetes
-  #- name: community.libvirt
+  - name: community.libvirt
   - name: community.windows
   - name: containers.podman
   - name: redhat_cop.controller_configuration
