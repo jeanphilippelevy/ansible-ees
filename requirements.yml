@@ -1,7 +1,7 @@
 ---
 collections:
   - name: jplevy.lab
-    version: 1.2.6
+    version: 1.2.7
   - name: ansible.controller  
   - name: ansible.posix
   - name: ansible.windows
